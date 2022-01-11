@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <ul>
+      <li>珠穆朗玛峰</li>
+      <li>戈尔巴乔峰</li>
+      <li>富士山</li>
+      <li>武陵山</li>
+    </ul>
+  </div>
+</template>
